@@ -2,4 +2,8 @@
 
 - Estado: En construcción.
 
-Para ejecutar: npm install react
+Para ejecutar: 
+
+npm install react
+
+Sistema de registro 2
